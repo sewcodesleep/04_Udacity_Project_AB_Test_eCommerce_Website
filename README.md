@@ -1,5 +1,5 @@
 # 04_Udacity_Project_AB_Test_eCommerce_Website
-#### Final Project:
+#### Final Project: https://github.com/sewcodesleep/04_Udacity_Project_AB_Test_eCommerce_Website/blob/master/Analyze_ab_test_results_notebook.ipynb
 
 *Introduction:*
 A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
